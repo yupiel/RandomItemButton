@@ -4,3 +4,5 @@
  Default Keybind is "Y".
 
  Keybinds don't set themselves sadly so you will have to go into keybind settings and reset it to default (or set your own keybind).
+
+[Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2904822064)
